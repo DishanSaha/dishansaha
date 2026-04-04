@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&textBg=false"/>
 </p>
-
-
-<h1 align="center">Hey Everyone! 👋</h1>
+<h1 align="center" size="20">Hey Everyone! 👋</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/mredul-saha-m3727m">
@@ -63,5 +61,5 @@
 ⚡ Fun fact: *Building cool things today, before AI takes over tomorrow 😄*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/footer.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&textBg=false&section=footer" />
 </p>

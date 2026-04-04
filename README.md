@@ -21,24 +21,41 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## Hi there 👋
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
-</p>
+🚀 **About Me**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" />
-</p>
+- 💻 I’m a **Frontend Developer** skilled in **React.js**, **Next.js**, **Tailwind CSS**,**Typescript** and **JavaScript (ES6+)**
+- 🎨 I love building **modern, responsive, and user-friendly web applications**
+- ⚡ I have experience working with **APIs**, **state management**, and **clean UI design**
+- 🌱 Currently learning **TypeScript** and **Nextjs**
+- 🧠 Exploring  **problem-solving skills (Javascript)**
 
 ---
 
-## 🔥 Top Languages
+🤝 **Collaboration & Help**
+
+- 👯 I’m open to collaborating on **Frontend projects**
+- 🤔 I can help with **Nextjs ,Typescript, React, Tailwind CSS, and modern UI development**
+- 💬 Ask me about **Frontend Development, UI Design, or Web Projects**
+
+---
+
+📫 **Contact Me**
+
+- 🌐 Portfolio: *(https://my-portfolio-blond-ten-26.vercel.app/)*
+- 💼 LinkedIn: *(www.linkedin.com/in/mredul-saha-m3727m)*
+- 📧 Email: *(mredulsaha1000@gmail.com)*
+
+---
+
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: *Building cool things today, before AI takes over tomorrow 😄*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />

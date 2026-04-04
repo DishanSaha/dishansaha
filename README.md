@@ -21,7 +21,7 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,typescript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,git,github,vscode,figma,firebase,vite," />
 </p>
 
 ---
@@ -58,5 +58,5 @@
 ⚡ Fun fact: *Building cool things today, before AI takes over tomorrow 😄*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/Md-Hasib-Askari/Md-Hasib-Askari/main/static/footer.svg" />
 </p>

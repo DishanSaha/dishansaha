@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&textBg=false"/>
+</p>
+
+
 <h1 align="center">Hey Everyone! 👋</h1>
 
 <p align="center">

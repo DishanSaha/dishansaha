@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=true&textBg=false"/>
+  <h1 align="center" size="40">Hey Everyone! 👋</h1>
 </p>
-<h1 align="center" size="20">Hey Everyone! 👋</h1>
+
 
 <p align="center">
   <a href="https://linkedin.com/in/mredul-saha-m3727m">

@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone! 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/mredul-saha-m3727m">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="https://twitter.com/your-link">

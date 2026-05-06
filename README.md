@@ -16,8 +16,8 @@
 ---
 
 ## 🚀 About Me
-- 💻 Frontend Developer (React + Tailwind)
-- 🌱 Currently learning Next.js & TypeScript
+- 💻 Frontend Developer (Next.js + TypeScript + Tailwind + Shadcn)
+- 🌱 Currently learning C# & .NET
 - ⚡ I love building modern web apps
 
 ---

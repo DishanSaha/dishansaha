@@ -25,8 +25,12 @@
 ## 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,git,github,vscode,figma,firebase,vite,C#,OOP" />
+  <img 
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,ts,git,github,vscode,figma,firebase,vite,dotnet,visualstudio" 
+  />
 </p>
+
+<h3 align="center">C# & OOP Developer</h3>
 
 ---
 
